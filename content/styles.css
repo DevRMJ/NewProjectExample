@@ -1,0 +1,14 @@
+body {
+    background: black;
+    /* Changes the entire background color to black */
+}
+
+h1 {
+    color: white;
+    /* Changes the text color of all H1 tags to white */
+}
+
+p {
+    color: gray;
+    /* Changes the text color of all p tags to gray */
+}
