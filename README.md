@@ -1,7 +1,4 @@
 ## New Project Example
-
-This links back to an article i have posted on my personal blog at https://blog.devrmj.tech
-
 ## Introduction
 
 Thinking back to my days as a junior and not knowing much, I remember the one thing that always held me back. I never knew where to begin, how do I start a new project? How do I get that starting point and then continue from there onward? This article is a small tutorial on just how to get started with a basic shell of a project. 
