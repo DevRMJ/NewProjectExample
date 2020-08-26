@@ -1,9 +1,6 @@
-## New Project Example
 ## Introduction
 
-Thinking back to my days as a junior and not knowing much, I remember the one thing that always held me back. I never knew where to begin, how do I start a new project? How do I get that starting point and then continue from there onward? This article is a small tutorial on just how to get started with a basic shell of a project. 
-
-This article will assume you are on a Microsoft Windows machine unless stated otherwise.
+Thinking back to my days as a junior and not knowing much, I remember the one thing that always held me back. I never knew where to begin, how do I start a new project? How do I get that starting point and then continue from there onward? This is a small tutorial on just how to get started with a basic shell of a project. 
 
 Let's get started
 
@@ -11,7 +8,7 @@ Let's get started
 
 Create a new folder somewhere that you will run your projects from. I prefer one of two options:
 
-- Create a '`development`' folder on my C:/ drive
+- Create a '`development`' folder on your C:/ drive or your home folder in Linux/Mac OS
 - Create a '`development`' folder on another partition or external HDD
 
 > Normally at this stage, I would create a new project with GIT in [Bitbucket](https://bitbucket.com) or [GitHub](https://github.com), but in this tutorial, I will skip source control as this is a more advanced topic to discuss.
@@ -146,3 +143,12 @@ That's all there is to it. We got to create our first 'skeleton' project and add
 Happy coding :)
 
 o/
+
+### Links
+* [GitHub Repository with finished tutorial](https://github.com/devrmj/newprojectexample)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+
+### Credits
+
+- Banner image by [Matthew Henry](https://unsplash.com/@matthewhenry) 
+   - https://unsplash.com/photos/nvFpb_MMRj8
